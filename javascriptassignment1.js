@@ -1,0 +1,15 @@
+var name = "Shiva Raj Panthi";
+var fathername = "Khem Raj Panthi";
+var mothername = "Shanti Panthi";
+var brothername = "Shankar Panthi";
+var collegename = "Forbes College";
+var place = "Chitwan";
+var age = 25;
+console.log(name);
+console.log(fathername);
+console.log(mothername);
+console.log(brothername);
+console.log(collegename);
+console.log(place);
+console.log(age);
+console.log("My name is " + name + ". and My age is " + age + ".and I lived in " + place + ".My father name is " + fathername + ".My mother name is " + mothername + ".My brother name is " + brothername + ".My college name is " + collegename);
